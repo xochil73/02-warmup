@@ -1,0 +1,21 @@
+{
+  "name": "02-warmup",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xochil73/02-warmup.git"
+  },
+  "author": "Xochil Squaglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xochil73/02-warmup/issues"
+  },
+  "homepage": "https://github.com/xochil73/02-warmup#readme"
+}
